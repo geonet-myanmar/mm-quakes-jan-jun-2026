@@ -507,9 +507,9 @@ input[type=range]::-webkit-slider-thumb:hover {
 /* --- Map Panel --- */
 .grid-content {
     display: grid;
-    grid-template-columns: 1.1fr 1fr;
+    grid-template-columns: 1.4fr 0.9fr;
     gap: 20px;
-    min-height: 520px;
+    min-height: 550px;
 }
 
 .panel-map {
@@ -556,7 +556,7 @@ input[type=range]::-webkit-slider-thumb:hover {
 #map {
     width: 100%;
     height: 100%;
-    min-height: 480px;
+    min-height: 500px;
     border-radius: 10px;
     background-color: #121319;
     border: 1px solid var(--border-color);
@@ -584,72 +584,6 @@ input[type=range]::-webkit-slider-thumb:hover {
     color: #000 !important;
 }
 
-/* Glassmorphic Popup Styles */
-.leaflet-popup-content-wrapper {
-    background: rgba(15, 17, 26, 0.85) !important;
-    backdrop-filter: blur(12px) !important;
-    -webkit-backdrop-filter: blur(12px) !important;
-    border: 1px solid rgba(255, 255, 255, 0.12) !important;
-    color: var(--text-primary) !important;
-    border-radius: 12px !important;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5) !important;
-}
-
-.leaflet-popup-tip {
-    background: rgba(15, 17, 26, 0.85) !important;
-    border-left: 1px solid rgba(255, 255, 255, 0.12) !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.12) !important;
-}
-
-.map-popup-container {
-    font-family: var(--font-body);
-    font-size: 12px;
-}
-
-.map-popup-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 8px;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    padding-bottom: 6px;
-}
-
-.map-popup-header h4 {
-    font-family: var(--font-heading);
-    font-size: 14px;
-    font-weight: 700;
-}
-
-.map-popup-badge {
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-size: 10px;
-    font-weight: 600;
-}
-
-.map-popup-grid {
-    display: grid;
-    grid-template-columns: auto 1fr;
-    gap: 4px 12px;
-}
-
-.map-popup-grid span:nth-child(odd) {
-    color: var(--text-secondary);
-}
-
-.map-popup-grid span:nth-child(even) {
-    font-weight: 500;
-}
-
-.map-popup-footer {
-    margin-top: 10px;
-    font-size: 10px;
-    color: var(--text-muted);
-    border-top: 1px dashed rgba(255, 255, 255, 0.1);
-    padding-top: 6px;
-}
-
 /* --- Charts Panel --- */
 .panel-charts {
     display: flex;
@@ -668,9 +602,9 @@ input[type=range]::-webkit-slider-thumb:hover {
     background: transparent;
     border: none;
     color: var(--text-secondary);
-    padding: 6px 14px;
+    padding: 6px 12px;
     font-family: var(--font-heading);
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 500;
     border-radius: 6px;
     cursor: pointer;
@@ -724,7 +658,7 @@ input[type=range]::-webkit-slider-thumb:hover {
     padding: 16px;
     display: flex;
     flex-direction: column;
-    min-height: 220px;
+    min-height: 210px;
 }
 
 .chart-wrapper h4 {
@@ -741,7 +675,7 @@ input[type=range]::-webkit-slider-thumb:hover {
 .canvas-container {
     flex-grow: 1;
     position: relative;
-    min-height: 180px;
+    min-height: 160px;
 }
 
 .chart-wrapper.full-width {
@@ -749,7 +683,7 @@ input[type=range]::-webkit-slider-thumb:hover {
 }
 
 .chart-wrapper.full-width .canvas-container {
-    min-height: 380px;
+    min-height: 350px;
 }
 
 /* --- Ledger Panel --- */
@@ -767,7 +701,7 @@ input[type=range]::-webkit-slider-thumb:hover {
 .table-wrapper {
     padding: 12px;
     overflow-x: auto;
-    max-height: 400px;
+    max-height: 350px;
 }
 
 .data-table {
@@ -844,6 +778,17 @@ input[type=range]::-webkit-slider-thumb:hover {
     background: rgba(255, 0, 127, 0.15);
     color: var(--accent-magenta);
     border: 1px solid rgba(255, 0, 127, 0.25);
+}
+
+.depth-class-badge {
+    display: inline-block;
+    background: rgba(255, 159, 67, 0.1);
+    color: var(--accent-orange);
+    border: 1px solid rgba(255, 159, 67, 0.2);
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 500;
 }
 
 .table-btn-zoom {
@@ -941,6 +886,6 @@ input[type=range]::-webkit-slider-thumb:hover {
         grid-template-columns: 1fr;
     }
     #map {
-        min-height: 400px;
+        min-height: 450px;
     }
 }
