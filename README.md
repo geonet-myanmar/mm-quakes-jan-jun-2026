@@ -80,4 +80,4 @@ The project is fully configured for static deployment on **GitHub Pages**:
 ## 📊 Data Acknowledgements
 
 * **Earthquake Records**: Department of Meteorology and Hydrology (DMH), Myanmar.
-* **Tectonic Faults**: Compiled tectonic fault data (2011).
+* **Tectonic Faults**: Myanmar Geosciences Society (2011).
