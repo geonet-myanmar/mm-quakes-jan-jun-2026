@@ -2,6 +2,8 @@
 
 An interactive, high-fidelity spatial and non-spatial analytics dashboard designed to analyze and visualize earthquake patterns in Myanmar. The project maps 57 seismic events recorded between January 14, 2026, and June 15, 2026, and correlates them with lineaments from the 2011 Tectonic Map of Myanmar.
 
+**Data Source:** Department of Meteorology and Hydrology (DMH), Myanmar
+
 **Live Demo:** [https://geonet-myanmar.github.io/mm-quakes-jan-jun-2026/](https://geonet-myanmar.github.io/mm-quakes-jan-jun-2026/)
 
 ---
