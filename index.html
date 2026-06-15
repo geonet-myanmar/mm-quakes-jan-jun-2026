@@ -163,12 +163,12 @@
 
                 <div class="metric-card glass-card">
                     <div class="metric-icon green-bg">
-                        <i class="fa-solid fa-route"></i>
+                        <i class="fa-regular fa-calendar-days"></i>
                     </div>
                     <div class="metric-data">
-                        <h4 class="metric-label">Avg Fault Dist</h4>
-                        <p class="metric-value" id="kpi-avg-fault">-</p>
-                        <span class="metric-subtext">Distance to nearest lineament</span>
+                        <h4 class="metric-label">Observation Span</h4>
+                        <p class="metric-value" id="kpi-date-range">-</p>
+                        <span class="metric-subtext">Active monitoring period</span>
                     </div>
                 </div>
             </section>
@@ -197,7 +197,7 @@
                         <div class="chart-tabs">
                             <button class="tab-btn active" data-tab="tab-mag-depth">Magnitude & Depth</button>
                             <button class="tab-btn" data-tab="tab-timeline">Timeline & Trends</button>
-                            <button class="tab-btn" data-tab="tab-fault">Fault Relationship</button>
+                            <button class="tab-btn" data-tab="tab-fault">Depth & Locations</button>
                         </div>
                     </div>
                     
@@ -230,19 +230,19 @@
                             </div>
                         </div>
 
-                        <!-- Tab 3: Fault Proximity Analysis -->
+                        <!-- Tab 3: Depth & Location Demographics -->
                         <div class="chart-tab-content" id="tab-fault">
                             <div class="charts-split">
                                 <div class="chart-wrapper">
-                                    <h4>Earthquake Distance to Nearest Fault</h4>
+                                    <h4>Hypocenter Depth Classes</h4>
                                     <div class="canvas-container">
-                                        <canvas id="chart-fault-dist"></canvas>
+                                        <canvas id="chart-depth-class"></canvas>
                                     </div>
                                 </div>
                                 <div class="chart-wrapper">
-                                    <h4>Nearest Named Fault Association</h4>
+                                    <h4>Top Active Locations</h4>
                                     <div class="canvas-container">
-                                        <canvas id="chart-named-fault-bar"></canvas>
+                                        <canvas id="chart-location-freq"></canvas>
                                     </div>
                                 </div>
                             </div>
