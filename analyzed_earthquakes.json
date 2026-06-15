@@ -1,0 +1,1715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-06-15",
+        "Time_MST": "02:37:59",
+        "Location": "About (21) miles SE of Mawkmai.",
+        "Latitude": 20.0,
+        "Longitude": 97.94,
+        "Depth_km": 10,
+        "Magnitude": 4.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 17.98,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 89.8,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.94,
+          20.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-06-14",
+        "Time_MST": "17:09:41",
+        "Location": "About (10) miles E-NE of Dagon Myothit.",
+        "Latitude": 16.89,
+        "Longitude": 96.38,
+        "Depth_km": 12,
+        "Magnitude": 3.1,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 13.39,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 391.08,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.38,
+          16.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-06-14",
+        "Time_MST": "00:31:42",
+        "Location": "About (8) miles E-SE of Patheingyi.",
+        "Latitude": 21.94,
+        "Longitude": 96.29,
+        "Depth_km": 10,
+        "Magnitude": 3.6,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 2.93,
+        "Nearest_Named_Fault_Name": "Kyaukkyan Fault",
+        "Nearest_Named_Fault_Code": "Kk1",
+        "Nearest_Named_Fault_Segment": "Kyaukkyan Fault, Myitnge Segment",
+        "Distance_to_Named_Fault_km": 40.28,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.29,
+          21.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-06-11",
+        "Time_MST": "12:15:16",
+        "Location": "7 miles NNW of Dedaye",
+        "Latitude": 16.5,
+        "Longitude": 95.84,
+        "Depth_km": 11,
+        "Magnitude": 3.8,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 8.24,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 440.17,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.84,
+          16.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-06-07",
+        "Time_MST": "11:42:27",
+        "Location": "24 miles NNE of Mawlaik",
+        "Latitude": 23.94,
+        "Longitude": 94.59,
+        "Depth_km": 110,
+        "Magnitude": 3.9,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 5.42,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 269.83,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.59,
+          23.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-06-04",
+        "Time_MST": "22:09:27",
+        "Location": "15 miles W of Kani",
+        "Latitude": 22.39,
+        "Longitude": 94.63,
+        "Depth_km": 113,
+        "Magnitude": 4.3,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 1.69,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 170.4,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.63,
+          22.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-30",
+        "Time_MST": "16:36:48",
+        "Location": "29 miles SSW of Minkin",
+        "Latitude": 22.51,
+        "Longitude": 94.27,
+        "Depth_km": 75,
+        "Magnitude": 3.8,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 2.35,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 204.25,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.27,
+          22.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-29",
+        "Time_MST": "18:52:52",
+        "Location": "8 miles WSW of Tonzang",
+        "Latitude": 23.58,
+        "Longitude": 93.58,
+        "Depth_km": 70,
+        "Magnitude": 4.2,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 23.65,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 336.95,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.58,
+          23.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-26",
+        "Time_MST": "23:00:54",
+        "Location": "10 miles E of Kalewa",
+        "Latitude": 23.21,
+        "Longitude": 94.46,
+        "Depth_km": 78,
+        "Magnitude": 3.8,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 15.2,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 218.1,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.46,
+          23.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-26",
+        "Time_MST": "20:37:47",
+        "Location": "23 miles NE of Mawlaik",
+        "Latitude": 23.86,
+        "Longitude": 94.67,
+        "Depth_km": 70,
+        "Magnitude": 4.0,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 17.38,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 253.82,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.67,
+          23.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-26",
+        "Time_MST": "19:48:33",
+        "Location": "36 miles SSE of Kungyangon",
+        "Latitude": 15.98,
+        "Longitude": 96.27,
+        "Depth_km": 11,
+        "Magnitude": 3.3,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 59.2,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 487.87,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.27,
+          15.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-25",
+        "Time_MST": "04:07:50",
+        "Location": "21 miles SW of Pinlebu",
+        "Latitude": 23.88,
+        "Longitude": 95.11,
+        "Depth_km": 65,
+        "Magnitude": 3.9,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 8.09,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 213.19,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.11,
+          23.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-22",
+        "Time_MST": "16:56:11",
+        "Location": "2 miles NNE of Dedaye",
+        "Latitude": 16.44,
+        "Longitude": 95.89,
+        "Depth_km": 12,
+        "Magnitude": 3.8,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 13.01,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 444.93,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.89,
+          16.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-18",
+        "Time_MST": "12:31:50",
+        "Location": "10 miles ESE of Gangaw",
+        "Latitude": 22.15,
+        "Longitude": 94.31,
+        "Depth_km": 30,
+        "Magnitude": 3.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 9.25,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 199.03,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.31,
+          22.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-18",
+        "Time_MST": "08:35:26",
+        "Location": "9 miles S of Kyauktan",
+        "Latitude": 16.51,
+        "Longitude": 96.34,
+        "Depth_km": 40,
+        "Magnitude": 5.2,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 15.56,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 430.82,
+        "Magnitude_Class": "Moderate",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.34,
+          16.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-11",
+        "Time_MST": "02:06:35",
+        "Location": "11 miles WNW of Sedoktaya",
+        "Latitude": 20.48,
+        "Longitude": 94.08,
+        "Depth_km": 15,
+        "Magnitude": 5.0,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 4.37,
+        "Nearest_Named_Fault_Name": "Kyaukkyan Fault",
+        "Nearest_Named_Fault_Code": "Kk1",
+        "Nearest_Named_Fault_Segment": "Kyaukkyan Fault, Myitnge Segment",
+        "Distance_to_Named_Fault_km": 243.13,
+        "Magnitude_Class": "Moderate",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.08,
+          20.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-05",
+        "Time_MST": "19:53:34",
+        "Location": "9 miles SE of Hkamti",
+        "Latitude": 25.89,
+        "Longitude": 95.77,
+        "Depth_km": 80,
+        "Magnitude": 3.8,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 19.1,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 413.13,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.77,
+          25.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-05",
+        "Time_MST": "10:40:55",
+        "Location": "13 miles W of Kamaing",
+        "Latitude": 25.5,
+        "Longitude": 96.51,
+        "Depth_km": 10,
+        "Magnitude": 4.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 2.88,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 307.91,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.51,
+          25.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-05",
+        "Time_MST": "03:01:29",
+        "Location": "9 miles NE of Maubin",
+        "Latitude": 16.79,
+        "Longitude": 95.77,
+        "Depth_km": 16,
+        "Magnitude": 3.8,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 19.84,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 414.8,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.77,
+          16.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-02",
+        "Time_MST": "12:03:28",
+        "Location": "12 miles N of Maubin",
+        "Latitude": 16.9,
+        "Longitude": 95.62,
+        "Depth_km": 10,
+        "Magnitude": 3.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 2.82,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 410.07,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.62,
+          16.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-05-01",
+        "Time_MST": "21:21:43",
+        "Location": "11 miles NW of Maubin",
+        "Latitude": 16.82,
+        "Longitude": 95.51,
+        "Depth_km": 5,
+        "Magnitude": 4.2,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 0.05,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 420.93,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.51,
+          16.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-27",
+        "Time_MST": "03:15:01",
+        "Location": "19 miles SE of Homalin",
+        "Latitude": 24.64,
+        "Longitude": 95.09,
+        "Depth_km": 54,
+        "Magnitude": 3.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 34.75,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 303.35,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.09,
+          24.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-26",
+        "Time_MST": "03:57:21",
+        "Location": "18 miles SW of Phaungbyin",
+        "Latitude": 24.13,
+        "Longitude": 94.57,
+        "Depth_km": 46,
+        "Magnitude": 4.0,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 2.47,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 291.85,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.57,
+          24.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-25",
+        "Time_MST": "21:45:11",
+        "Location": "15 miles SSE of Pauk",
+        "Latitude": 21.28,
+        "Longitude": 94.62,
+        "Depth_km": 100,
+        "Magnitude": 4.2,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 7.16,
+        "Nearest_Named_Fault_Name": "Kyaukkyan Fault",
+        "Nearest_Named_Fault_Code": "Kk1",
+        "Nearest_Named_Fault_Segment": "Kyaukkyan Fault, Myitnge Segment",
+        "Distance_to_Named_Fault_km": 183.54,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.62,
+          21.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-24",
+        "Time_MST": "13:33:11",
+        "Location": "72 miles SE of Pyapon",
+        "Latitude": 15.72,
+        "Longitude": 96.59,
+        "Depth_km": 10,
+        "Magnitude": 4.1,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 94.3,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 516.81,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.59,
+          15.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-21",
+        "Time_MST": "15:12:55",
+        "Location": "19 miles SE of Mongping",
+        "Latitude": 21.2,
+        "Longitude": 99.25,
+        "Depth_km": 10,
+        "Magnitude": 3.6,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 13.2,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 84.13,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.25,
+          21.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-21",
+        "Time_MST": "06:59:30",
+        "Location": "Myanmar-India Border Region",
+        "Latitude": 24.74,
+        "Longitude": 94.46,
+        "Depth_km": 10,
+        "Magnitude": 5.1,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 6.59,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 371.37,
+        "Magnitude_Class": "Moderate",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.46,
+          24.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-21",
+        "Time_MST": "06:38:26",
+        "Location": "28 miles SE of Mawlaik",
+        "Latitude": 23.36,
+        "Longitude": 94.73,
+        "Depth_km": 106,
+        "Magnitude": 4.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 12.85,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 201.82,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.73,
+          23.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-20",
+        "Time_MST": "11:07:36",
+        "Location": "15 miles SSE of Minkin",
+        "Latitude": 22.68,
+        "Longitude": 94.61,
+        "Depth_km": 49,
+        "Magnitude": 3.8,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 2.85,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 175.94,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.61,
+          22.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-17",
+        "Time_MST": "15:23:35",
+        "Location": "28 miles NE of Lahe",
+        "Latitude": 26.48,
+        "Longitude": 95.86,
+        "Depth_km": 115,
+        "Magnitude": 4.4,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 10.9,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 486.56,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.86,
+          26.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-10",
+        "Time_MST": "04:10:32",
+        "Location": "32 miles WSW of Mongping",
+        "Latitude": 21.22,
+        "Longitude": 98.55,
+        "Depth_km": 11,
+        "Magnitude": 4.1,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 3.89,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 133.91,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.55,
+          21.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-10",
+        "Time_MST": "02:32:18",
+        "Location": "8 miles SSE of Lahe",
+        "Latitude": 25.34,
+        "Longitude": 95.01,
+        "Depth_km": 60,
+        "Magnitude": 4.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 7.76,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 398.28,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.01,
+          25.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-04-07",
+        "Time_MST": "01:53:50",
+        "Location": "3 miles SW of Mawlaik",
+        "Latitude": 23.61,
+        "Longitude": 94.37,
+        "Depth_km": 80,
+        "Magnitude": 4.0,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 2.72,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 259.7,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.37,
+          23.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-03-29",
+        "Time_MST": "04:52:50",
+        "Location": "30 miles SSE of Mawkmai",
+        "Latitude": 19.83,
+        "Longitude": 97.92,
+        "Depth_km": 10,
+        "Magnitude": 3.6,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 3.47,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 93.28,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.92,
+          19.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-03-28",
+        "Time_MST": "17:55:29",
+        "Location": "40 miles NE of Phaungbyin",
+        "Latitude": 24.56,
+        "Longitude": 95.35,
+        "Depth_km": 10,
+        "Magnitude": 4.1,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 22.94,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 271.06,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.35,
+          24.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-03-25",
+        "Time_MST": "22:31:30",
+        "Location": "8 miles N of Kani",
+        "Latitude": 22.53,
+        "Longitude": 94.81,
+        "Depth_km": 10,
+        "Magnitude": 4.0,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 11.82,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 154.85,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.81,
+          22.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-03-25",
+        "Time_MST": "17:52:36",
+        "Location": "25 miles SE of Bawlakhe",
+        "Latitude": 19.0,
+        "Longitude": 97.69,
+        "Depth_km": 10,
+        "Magnitude": 4.0,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 15.76,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 159.03,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.69,
+          19.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-03-23",
+        "Time_MST": "23:57:50",
+        "Location": "12 miles SE of Lahe",
+        "Latitude": 25.36,
+        "Longitude": 95.12,
+        "Depth_km": 59,
+        "Magnitude": 4.3,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 1.98,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 391.93,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.12,
+          25.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-03-19",
+        "Time_MST": "17:52:04",
+        "Location": "16 miles W of Myaing",
+        "Latitude": 21.59,
+        "Longitude": 94.6,
+        "Depth_km": 12,
+        "Magnitude": 3.2,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 3.61,
+        "Nearest_Named_Fault_Name": "Kyaukkyan Fault",
+        "Nearest_Named_Fault_Code": "Kk1",
+        "Nearest_Named_Fault_Segment": "Kyaukkyan Fault, Myitnge Segment",
+        "Distance_to_Named_Fault_km": 178.75,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6,
+          21.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-03-18",
+        "Time_MST": "19:07:00",
+        "Location": "11 miles SW of Thaton",
+        "Latitude": 16.78,
+        "Longitude": 97.29,
+        "Depth_km": 10,
+        "Magnitude": 3.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 7.68,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 401.49,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.29,
+          16.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-03-18",
+        "Time_MST": "10:53:16",
+        "Location": "32 miles NW of Kyunhla",
+        "Latitude": 23.54,
+        "Longitude": 95.08,
+        "Depth_km": 52,
+        "Magnitude": 3.7,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 3.53,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 181.92,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.08,
+          23.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-03-15",
+        "Time_MST": "17:33:01",
+        "Location": "20 miles SE of Homalin",
+        "Latitude": 24.66,
+        "Longitude": 95.14,
+        "Depth_km": 145,
+        "Magnitude": 4.3,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 38.9,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 301.48,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.14,
+          24.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-03-04",
+        "Time_MST": "18:06:05",
+        "Location": "27 miles SE of Kyaukme",
+        "Latitude": 22.28,
+        "Longitude": 97.35,
+        "Depth_km": 14,
+        "Magnitude": 4.2,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 14.48,
+        "Nearest_Named_Fault_Name": "Kyaukme Fault",
+        "Nearest_Named_Fault_Code": "km",
+        "Nearest_Named_Fault_Segment": "Thibaw Segment",
+        "Distance_to_Named_Fault_km": 46.53,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.35,
+          22.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-25",
+        "Time_MST": "23:21:48",
+        "Location": "23 miles NE of Minkin",
+        "Latitude": 23.07,
+        "Longitude": 94.78,
+        "Depth_km": 102,
+        "Magnitude": 4.8,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 12.35,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 176.19,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.78,
+          23.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-25",
+        "Time_MST": "12:30:15",
+        "Location": "13 miles S of Mogaung",
+        "Latitude": 25.1,
+        "Longitude": 96.92,
+        "Depth_km": 20,
+        "Magnitude": 3.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 27.39,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Ruili Segment",
+        "Distance_to_Named_Fault_km": 224.17,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.92,
+          25.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-25",
+        "Time_MST": "09:46:02",
+        "Location": "25 miles SE of Mogaung",
+        "Latitude": 24.97,
+        "Longitude": 97.11,
+        "Depth_km": 12,
+        "Magnitude": 4.8,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 36.32,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Ruili Segment",
+        "Distance_to_Named_Fault_km": 191.76,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.11,
+          24.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-17",
+        "Time_MST": "05:20:46",
+        "Location": "20 miles W of Sedoktaya",
+        "Latitude": 20.46,
+        "Longitude": 93.93,
+        "Depth_km": 16,
+        "Magnitude": 4.0,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 8.22,
+        "Nearest_Named_Fault_Name": "Kyaukkyan Fault",
+        "Nearest_Named_Fault_Code": "Kk1",
+        "Nearest_Named_Fault_Segment": "Kyaukkyan Fault, Myitnge Segment",
+        "Distance_to_Named_Fault_km": 255.73,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.93,
+          20.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-15",
+        "Time_MST": "09:17:19",
+        "Location": "15 miles WSW of Kani",
+        "Latitude": 22.39,
+        "Longitude": 94.6,
+        "Depth_km": 65,
+        "Magnitude": 4.2,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 3.72,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 172.99,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.6,
+          22.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-11",
+        "Time_MST": "01:34:46",
+        "Location": "22 miles NW of Seikphyu",
+        "Latitude": 21.07,
+        "Longitude": 94.5,
+        "Depth_km": 35,
+        "Magnitude": 3.6,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 12.08,
+        "Nearest_Named_Fault_Name": "Kyaukkyan Fault",
+        "Nearest_Named_Fault_Code": "Kk1",
+        "Nearest_Named_Fault_Segment": "Kyaukkyan Fault, Myitnge Segment",
+        "Distance_to_Named_Fault_km": 199.02,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5,
+          21.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-06",
+        "Time_MST": "07:03:07",
+        "Location": "43 miles ESE of Mawlaik",
+        "Latitude": 23.45,
+        "Longitude": 95.07,
+        "Depth_km": 75,
+        "Magnitude": 4.9,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 0.45,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 174.8,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.07,
+          23.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-05",
+        "Time_MST": "17:54:48",
+        "Location": "18 miles SE of Sedoktaya",
+        "Latitude": 20.26,
+        "Longitude": 94.45,
+        "Depth_km": 72,
+        "Magnitude": 3.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 3.79,
+        "Nearest_Named_Fault_Name": "Kyaukkyan Fault",
+        "Nearest_Named_Fault_Code": "Kk1",
+        "Nearest_Named_Fault_Segment": "Kyaukkyan Fault, Myitnge Segment",
+        "Distance_to_Named_Fault_km": 218.99,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.45,
+          20.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-05",
+        "Time_MST": "01:09:42",
+        "Location": "18 miles ENE of Homalin",
+        "Latitude": 24.97,
+        "Longitude": 95.19,
+        "Depth_km": 75,
+        "Magnitude": 4.4,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 11.69,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 336.12,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Deep (>70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.19,
+          24.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-03",
+        "Time_MST": "22:21:29",
+        "Location": "26 miles WNW of Sedoktaya",
+        "Latitude": 20.54,
+        "Longitude": 93.85,
+        "Depth_km": 44,
+        "Magnitude": 5.2,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 4.04,
+        "Nearest_Named_Fault_Name": "Kyaukkyan Fault",
+        "Nearest_Named_Fault_Code": "Kk1",
+        "Nearest_Named_Fault_Segment": "Kyaukkyan Fault, Myitnge Segment",
+        "Distance_to_Named_Fault_km": 261.13,
+        "Magnitude_Class": "Moderate",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.85,
+          20.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-03",
+        "Time_MST": "22:04:02",
+        "Location": "20 miles WNW of Sedoktaya",
+        "Latitude": 20.5,
+        "Longitude": 93.94,
+        "Depth_km": 58,
+        "Magnitude": 6.0,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 9.62,
+        "Nearest_Named_Fault_Name": "Kyaukkyan Fault",
+        "Nearest_Named_Fault_Code": "Kk1",
+        "Nearest_Named_Fault_Segment": "Kyaukkyan Fault, Myitnge Segment",
+        "Distance_to_Named_Fault_km": 254.19,
+        "Magnitude_Class": "Strong",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.94,
+          20.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-02-02",
+        "Time_MST": "06:34:05",
+        "Location": "19 miles SE of Minkin",
+        "Latitude": 22.69,
+        "Longitude": 94.72,
+        "Depth_km": 32,
+        "Magnitude": 3.3,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 5.42,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 165.65,
+        "Magnitude_Class": "Minor",
+        "Depth_Class": "Intermediate (30-70km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.72,
+          22.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-01-19",
+        "Time_MST": "22:13:57",
+        "Location": "18 miles SW of Taikkyi",
+        "Latitude": 17.16,
+        "Longitude": 95.75,
+        "Depth_km": 10,
+        "Magnitude": 4.5,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 0.68,
+        "Nearest_Named_Fault_Name": "Mong Hpyak Fault",
+        "Nearest_Named_Fault_Code": "N/A",
+        "Nearest_Named_Fault_Segment": "N/A",
+        "Distance_to_Named_Fault_km": 383.27,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.75,
+          17.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2026-01-14",
+        "Time_MST": "12:56:17",
+        "Location": "18 miles ENE of Homalin",
+        "Latitude": 24.96,
+        "Longitude": 95.18,
+        "Depth_km": 12,
+        "Magnitude": 4.0,
+        "Nearest_Fault_Name": "Unnamed Tectonic Lineament",
+        "Nearest_Fault_Code": "N/A",
+        "Nearest_Fault_Segment": "N/A",
+        "Nearest_Fault_Type": "N/A",
+        "Distance_to_Fault_km": 12.43,
+        "Nearest_Named_Fault_Name": "Shweli Fault",
+        "Nearest_Named_Fault_Code": "sh2",
+        "Nearest_Named_Fault_Segment": "Shweli F, Shweli Segment",
+        "Distance_to_Named_Fault_km": 335.68,
+        "Magnitude_Class": "Light",
+        "Depth_Class": "Shallow (<30km)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.18,
+          24.96
+        ]
+      }
+    }
+  ]
+}
